@@ -6,7 +6,7 @@ layout: default
 ## This website supports emswas homeschool activities.
 The emswas homeschool family is based in Forsyth County, Georgia, in the United States of America.
 
-## Note for Microsoft o365 education school eligibility reviewers:
+### Note for Microsoft o365 education school eligibility reviewers:
 We are a homeschooling family which would like very much to be able to take advantage of capabilities available only through O365 education.
 These specifically include Minecraft education and the student-oriented capabilities of teams.
 
