@@ -1,7 +1,9 @@
 theme: jekyll-theme-slate
 title: emswas homeschool
 description: This website supports emswas homeschool activities.
-github
-  is_project_page: false
 show_downloads: false
-
+is_project_page: false
+is_user_page: true
+github:
+  is_project_page: false
+  is_user_page: true
